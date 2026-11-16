@@ -1,0 +1,8 @@
+{
+  "name": "VRA Radiology Academy",
+  "description": "Clinical radiology training, QA image annotation, structured case reporting, AI validation, and admin readiness analytics across X-ray, CT, and Ultrasound.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
